@@ -1,0 +1,335 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FR1/Verilog/Anas fpga/Projects
+vfifo
+Z0 !s110 1726523169
+!i10b 1
+!s100 n_:<5zJo[8bXS5@R5oV`O3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[GcNTMGVU=cg>4B3lkK0I1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FR1/Verilog/Anas fpga/Day 7
+w1726520714
+Z4 8D:/FR1/Verilog/Anas fpga/Day 7/fifo.v
+Z5 FD:/FR1/Verilog/Anas fpga/Day 7/fifo.v
+!i122 96
+Z6 L0 1 67
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726523169.000000
+Z9 !s107 D:/FR1/Verilog/Anas fpga/Day 7/fifo.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/fifo.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vfifo_1024x8
+!s110 1726503338
+!i10b 1
+!s100 3HEd2hZTGMYVA]=iEcf>g0
+R1
+IYo=nGW4l@:WDPh8N9QTo_0
+R2
+R3
+w1726503252
+R4
+R5
+!i122 1
+L0 1 66
+R7
+r1
+!s85 0
+31
+!s108 1726503338.000000
+R9
+R10
+!i113 1
+R11
+R12
+vFIFObuffer
+!s110 1726499729
+!i10b 1
+!s100 Ak@R:malhIm0LlF5FoiB;0
+R1
+IjB1ZCInej16[;KezbSLB?2
+R2
+R3
+w1726499687
+R4
+R5
+!i122 0
+L0 23 108
+R7
+r1
+!s85 0
+31
+!s108 1726499729.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@f@i@f@obuffer
+vfifohh
+!s110 1726519815
+!i10b 1
+!s100 ?bQHhjDcC2GBm7=7Q9VMg3
+R1
+IZlI>ke9M1R_aFN1niKG822
+R2
+R3
+w1726519366
+R4
+R5
+!i122 35
+R6
+R7
+r1
+!s85 0
+31
+!s108 1726519815.000000
+R9
+R10
+!i113 1
+R11
+R12
+vfr_uart
+!s110 1726523006
+!i10b 1
+!s100 LQ012nKG<lh^cz2LKHSdO2
+R1
+ImeDV2Wb:9;H35IW@8SoEo0
+R2
+R3
+w1726523003
+Z13 8D:/FR1/Verilog/Anas fpga/Day 7/tb_uart.v
+Z14 FD:/FR1/Verilog/Anas fpga/Day 7/tb_uart.v
+!i122 94
+L0 3 101
+R7
+r1
+!s85 0
+31
+!s108 1726523006.000000
+Z15 !s107 D:/FR1/Verilog/Anas fpga/Day 7/tb_uart.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/tb_uart.v|
+!i113 1
+R11
+R12
+vrx
+R0
+!i10b 1
+!s100 Bb_AVBFBD[?U4JgRe?>o=0
+R1
+Iai1oi?SOO?4c_a`C<IfDA2
+R2
+R3
+w1726521664
+8D:/FR1/Verilog/Anas fpga/Day 7/uart_rx.v
+FD:/FR1/Verilog/Anas fpga/Day 7/uart_rx.v
+!i122 98
+L0 3 87
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/uart_rx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/uart_rx.v|
+!i113 1
+R11
+R12
+vtb_fifo
+!s110 1726523521
+!i10b 1
+!s100 nDTWlkKF8IB]jhfX40kMS3
+R1
+ILZMDM]>njjj?3dTmFH2_Y1
+R2
+R3
+w1726523518
+8D:/FR1/Verilog/Anas fpga/Day 7/tb_fifo.v
+FD:/FR1/Verilog/Anas fpga/Day 7/tb_fifo.v
+!i122 103
+L0 1 89
+R7
+r1
+!s85 0
+31
+!s108 1726523521.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/tb_fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/tb_fifo.v|
+!i113 1
+R11
+R12
+vtb_uart
+!s110 1726522292
+!i10b 1
+!s100 AGPLd7>78>d[n1KL8:>8`1
+R1
+I?e2G9[lLZ2cTC;PCGF;ni1
+R2
+R3
+w1726521051
+R13
+R14
+!i122 84
+L0 1 87
+R7
+r1
+!s85 0
+31
+!s108 1726522292.000000
+R15
+R16
+!i113 1
+R11
+R12
+vtb_uart_improved
+!s110 1726526550
+!i10b 1
+!s100 XXfDVeASAa_R9G;]R[kX13
+R1
+I6o69`=ZacQ2:bFFaoOeKA1
+R2
+R3
+w1726526526
+8D:/FR1/Verilog/Anas fpga/Day 7/tbuart_imp.v
+FD:/FR1/Verilog/Anas fpga/Day 7/tbuart_imp.v
+!i122 106
+L0 3 75
+R7
+r1
+!s85 0
+31
+!s108 1726526550.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/tbuart_imp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/tbuart_imp.v|
+!i113 1
+R11
+R12
+vTimer
+R0
+!i10b 1
+!s100 ]^cQM;oG5eAeNC^>WO^J33
+R1
+IbD>d0VF^BKDJ5fLNAQl6Q3
+R2
+R3
+w1726522216
+8D:/FR1/Verilog/Anas fpga/Day 7/timer.v
+FD:/FR1/Verilog/Anas fpga/Day 7/timer.v
+!i122 97
+L0 2 23
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/timer.v|
+!i113 1
+R11
+R12
+n@timer
+vtx
+R0
+!i10b 1
+!s100 4Vj7a]O[]eij`9M7c7XXf1
+R1
+Io0a_<S<k>2e@=XdZ[La=a1
+R2
+R3
+w1726521751
+8D:/FR1/Verilog/Anas fpga/Day 7/uart_tx.v
+FD:/FR1/Verilog/Anas fpga/Day 7/uart_tx.v
+!i122 99
+L0 2 98
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/uart_tx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/uart_tx.v|
+!i113 1
+R11
+R12
+vuart
+R0
+!i10b 1
+!s100 5Lzg<n`?<55[o4h^]NmGf0
+R1
+IL2R5lIJ?iYTYfHUhYDKQL0
+R2
+R3
+w1726522141
+8D:/FR1/Verilog/Anas fpga/Day 7/uart.v
+FD:/FR1/Verilog/Anas fpga/Day 7/uart.v
+!i122 100
+L0 2 81
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/uart.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/uart.v|
+!i113 1
+R11
+R12
+vuart_improved
+!s110 1726526408
+!i10b 1
+!s100 ^l:<;19<md73mbgUEf?^G3
+R1
+IWzzd5B7J;_af9TSoBV7_k0
+R2
+R3
+w1726526281
+8D:/FR1/Verilog/Anas fpga/Day 7/uart_improved.v
+FD:/FR1/Verilog/Anas fpga/Day 7/uart_improved.v
+!i122 104
+L0 2 62
+R7
+r1
+!s85 0
+31
+!s108 1726526408.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 7/uart_improved.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 7/uart_improved.v|
+!i113 1
+R11
+R12
+vuart_tb
+!s110 1726523213
+!i10b 1
+!s100 VJLDjKARNFYGi[1<MAa<;0
+R1
+IMAe1c`<jX3OH=BA[O3@BM0
+R2
+R3
+w1726523158
+R13
+R14
+!i122 102
+L0 3 105
+R7
+r1
+!s85 0
+31
+!s108 1726523213.000000
+R15
+R16
+!i113 1
+R11
+R12

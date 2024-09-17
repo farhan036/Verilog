@@ -1,0 +1,64 @@
+{D:/FR1/Verilog/Anas fpga/Day 7/fifo.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/uart.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/uart.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart
+
+Top level modules:
+	uart
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/uart_improved.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/uart_improved.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_improved
+
+Top level modules:
+	uart_improved
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/uart_rx.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/uart_rx.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rx
+
+Top level modules:
+	rx
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/timer.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/timer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Timer
+
+Top level modules:
+	Timer
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/tb_uart.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/tb_uart.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_tb
+
+Top level modules:
+	uart_tb
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/tb_fifo.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/tb_fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fifo
+
+Top level modules:
+	tb_fifo
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/tbuart_imp.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/tbuart_imp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_uart_improved
+
+Top level modules:
+	tb_uart_improved
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 7/uart_tx.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 7/uart_tx.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tx
+
+Top level modules:
+	tx
+
+} {} {}}

@@ -1,0 +1,314 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FR1/Verilog/Anas fpga/Day 3
+vbcd
+!s110 1726271222
+!i10b 1
+!s100 kMXa97d^UgXJR@[4[2WkE2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU]`MO1@IIH8@mSbRBjFbB3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FR1/Verilog/Anas fpga/Day 4
+w1726271216
+8D:/FR1/Verilog/Anas fpga/Day 4/Bcd_counter.v
+FD:/FR1/Verilog/Anas fpga/Day 4/Bcd_counter.v
+!i122 22
+L0 1 19
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1726271222.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/Bcd_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/Bcd_counter.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vcounter_up_down
+!s110 1726263165
+!i10b 1
+!s100 bHA=8zJo7=BGfUfH@2`mG0
+R0
+IE2]Rdbhk9U:A9;KN;J9lL0
+R1
+R2
+w1726263138
+8D:/FR1/Verilog/Anas fpga/Day 4/counter_up_down.v
+FD:/FR1/Verilog/Anas fpga/Day 4/counter_up_down.v
+!i122 13
+L0 1 30
+R3
+r1
+!s85 0
+31
+!s108 1726263165.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/counter_up_down.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/counter_up_down.v|
+!i113 1
+R4
+R5
+vcounterup
+!s110 1726259233
+!i10b 1
+!s100 4;gHi`GzRU]:1PWe8OXR83
+R0
+IEF@Wk6M:FM1Y6nWP`XzCk2
+R1
+R2
+w1726259218
+8D:/FR1/Verilog/Anas fpga/Day 4/sync_counter.v
+FD:/FR1/Verilog/Anas fpga/Day 4/sync_counter.v
+!i122 8
+L0 1 35
+R3
+r1
+!s85 0
+31
+!s108 1726259233.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/sync_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/sync_counter.v|
+!i113 1
+R4
+R5
+vmodulus_counter_up
+!s110 1726269671
+!i10b 1
+!s100 bjf:_3WO9AnllLVRl_0L_2
+R0
+IC:HAJ46cbA1T8GNIn_]YD1
+R1
+R2
+w1726269666
+8D:/FR1/Verilog/Anas fpga/Day 4/modulus_counter.v
+FD:/FR1/Verilog/Anas fpga/Day 4/modulus_counter.v
+!i122 21
+L0 1 25
+R3
+r1
+!s85 0
+31
+!s108 1726269671.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/modulus_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/modulus_counter.v|
+!i113 1
+R4
+R5
+vPwm
+!s110 1726306644
+!i10b 1
+!s100 nbQFZ<jmOYMj>38M9U5g`2
+R0
+IcAf5Pe;ncb[UL9_go8?g50
+R1
+R2
+w1726306638
+8D:/FR1/Verilog/Anas fpga/Day 4/Pwm.v
+FD:/FR1/Verilog/Anas fpga/Day 4/Pwm.v
+!i122 24
+L0 1 27
+R3
+r1
+!s85 0
+31
+!s108 1726306644.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/Pwm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/Pwm.v|
+!i113 1
+R4
+R5
+n@pwm
+vPwm_f
+!s110 1726310064
+!i10b 1
+!s100 3_hI@5S3Xi6jjHO96m>[U1
+R0
+ISEZ^Q0d<6JcQJde>zQC3m2
+R1
+R2
+w1726310061
+8D:/FR1/Verilog/Anas fpga/Day 4/Pwm_Final.v
+FD:/FR1/Verilog/Anas fpga/Day 4/Pwm_Final.v
+!i122 29
+L0 2 42
+R3
+r1
+!s85 0
+31
+!s108 1726310064.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/Pwm_Final.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/Pwm_Final.v|
+!i113 1
+R4
+R5
+n@pwm_f
+vPwm_f_tb
+!s110 1726309053
+!i10b 1
+!s100 [K^:]ldczaJIJ:OMKabaE1
+R0
+I=5GkEZX0P`gj86m@WYAj33
+R1
+R2
+w1726309037
+8D:/FR1/Verilog/Anas fpga/Day 4/tb_pwm.v
+FD:/FR1/Verilog/Anas fpga/Day 4/tb_pwm.v
+!i122 27
+L0 1 72
+R3
+r1
+!s85 0
+31
+!s108 1726309053.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/tb_pwm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/tb_pwm.v|
+!i113 1
+R4
+R5
+n@pwm_f_tb
+vsync_counter_tb
+!s110 1726259227
+!i10b 1
+!s100 [O6JOzh7o>Vn]VL;EHVMn3
+R0
+IFe2LQ2?2@nkn8EHljdd<?3
+R1
+R2
+w1726259082
+8D:/FR1/Verilog/Anas fpga/Day 4/sync_counter_tb.v
+FD:/FR1/Verilog/Anas fpga/Day 4/sync_counter_tb.v
+!i122 7
+L0 1 32
+R3
+r1
+!s85 0
+31
+!s108 1726259227.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/sync_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/sync_counter_tb.v|
+!i113 1
+R4
+R5
+vtb_bcd
+!s110 1726271278
+!i10b 1
+!s100 ];fj>?G0h:?fEz6e18m8b2
+R0
+IL`ikNB70C`2TQ6l6?QloU0
+R1
+R2
+w1726271265
+8D:/FR1/Verilog/Anas fpga/Day 4/tb_bcd.v
+FD:/FR1/Verilog/Anas fpga/Day 4/tb_bcd.v
+!i122 23
+L0 1 58
+R3
+r1
+!s85 0
+31
+!s108 1726271278.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/tb_bcd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/tb_bcd.v|
+!i113 1
+R4
+R5
+vtb_counter_up_down
+!s110 1726263171
+!i10b 1
+!s100 J9CDRjKTzg2>_7>CJ4`i12
+R0
+Ig9TBE`71mHUU6]0X2?7Un1
+R1
+R2
+w1726262670
+8D:/FR1/Verilog/Anas fpga/Day 4/counter_up_dowm_tb.v
+FD:/FR1/Verilog/Anas fpga/Day 4/counter_up_dowm_tb.v
+!i122 14
+L0 1 60
+R3
+r1
+!s85 0
+31
+!s108 1726263171.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/counter_up_dowm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/counter_up_dowm_tb.v|
+!i113 1
+R4
+R5
+vtb_counterup
+!s110 1726259630
+!i10b 1
+!s100 E0dIQf70>0oJKI4e6[<Ab0
+R0
+I?YiCOaJdVlFKz`<XEac]E2
+R1
+R2
+w1726259616
+8D:/FR1/Verilog/Anas fpga/Day 4/tb_newsyn.v
+FD:/FR1/Verilog/Anas fpga/Day 4/tb_newsyn.v
+!i122 9
+L0 1 47
+R3
+r1
+!s85 0
+31
+!s108 1726259630.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/tb_newsyn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/tb_newsyn.v|
+!i113 1
+R4
+R5
+vTff
+!s110 1726249600
+!i10b 1
+!s100 NXO<0YL@U^e8oXZ5GKYMX1
+R0
+ILbi8=JFKG[oIQ4?D><PfQ0
+R1
+R2
+w1726249595
+8D:/FR1/Verilog/Anas fpga/Day 4/T_ff.v
+FD:/FR1/Verilog/Anas fpga/Day 4/T_ff.v
+!i122 2
+L0 1 18
+R3
+r1
+!s85 0
+31
+!s108 1726249600.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/T_ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/T_ff.v|
+!i113 1
+R4
+R5
+n@tff
+vtimer
+!s110 1726308186
+!i10b 1
+!s100 ^e29aU6G3D5LiVM>X4]Mj3
+R0
+Ik@?R]XMzW2WaJV;<;A:UF3
+R1
+R2
+w1726308159
+8D:/FR1/Verilog/Anas fpga/Day 4/timer.v
+FD:/FR1/Verilog/Anas fpga/Day 4/timer.v
+!i122 25
+L0 1 26
+R3
+r1
+!s85 0
+31
+!s108 1726308186.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 4/timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 4/timer.v|
+!i113 1
+R4
+R5

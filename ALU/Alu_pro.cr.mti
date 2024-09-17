@@ -1,0 +1,22 @@
+{D:/FR1/Verilog/Anas fpga/Project/Alu.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Project/Alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Project/tb_alu.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Project/tb_alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Alu
+
+Top level modules:
+	tb_Alu
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Project/tb1_alu.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Project/tb1_alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Alu1
+
+Top level modules:
+	tb_Alu1
+
+} {} {}}

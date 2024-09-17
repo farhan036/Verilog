@@ -1,0 +1,200 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FR1/Verilog/Anas fpga/Day 4
+vAlu
+!s110 1726327455
+!i10b 1
+!s100 F[B7A;YF3XMmSdCcXCD753
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie0z3iOB1XVIOmEm6zY0<m0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FR1/Verilog/Anas fpga/Project
+w1726327428
+8D:/FR1/Verilog/Anas fpga/Project/Alu.v
+FD:/FR1/Verilog/Anas fpga/Project/Alu.v
+!i122 6
+L0 1 110
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1726327455.000000
+!s107 D:/FR1/Verilog/Anas fpga/Project/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Project/Alu.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@alu
+vAlu_tb1
+!s110 1726327527
+!i10b 1
+!s100 V2LbfbS74GIU^0n7n^O[23
+R0
+IelIAM_Lzz77XYmHb?Xb5@0
+R1
+R2
+w1726327515
+Z6 8D:/FR1/Verilog/Anas fpga/Project/tb1_alu.v
+Z7 FD:/FR1/Verilog/Anas fpga/Project/tb1_alu.v
+!i122 7
+L0 1 85
+R3
+r1
+!s85 0
+31
+!s108 1726327527.000000
+Z8 !s107 D:/FR1/Verilog/Anas fpga/Project/tb1_alu.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Project/tb1_alu.v|
+!i113 1
+R4
+R5
+n@alu_tb1
+vLfsr
+!s110 1726332726
+!i10b 1
+!s100 ]R7CTPeHKkoESR]EQGJJn2
+R0
+IP=hFO4<@_9l2iQz3:61:F0
+R1
+R2
+w1726332723
+8D:/FR1/Verilog/Anas fpga/Day 5/LFSR.v
+FD:/FR1/Verilog/Anas fpga/Day 5/LFSR.v
+!i122 10
+L0 1 23
+R3
+r1
+!s85 0
+31
+!s108 1726332726.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 5/LFSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 5/LFSR.v|
+!i113 1
+R4
+R5
+n@lfsr
+vmoore101
+!s110 1726390110
+!i10b 1
+!s100 C8Je]PmNe:z=>oKV__jQ42
+R0
+I1ezZ?BnHJl2oid[6FU34=3
+R1
+R2
+w1726390103
+8D:/FR1/Verilog/Anas fpga/Day 5/moore_101_detector.v
+FD:/FR1/Verilog/Anas fpga/Day 5/moore_101_detector.v
+!i122 11
+L0 1 45
+R3
+r1
+!s85 0
+31
+!s108 1726390110.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 5/moore_101_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 5/moore_101_detector.v|
+!i113 1
+R4
+R5
+vmoore1even_odd
+!s110 1726394933
+!i10b 1
+!s100 :>f6nJFf?=<0Ja`i`VfJc0
+R0
+IE8l^GL=CAZEB`a@AELlMT0
+R1
+R2
+w1726394903
+8D:/FR1/Verilog/Anas fpga/Day 5/moore_even_odd.v
+FD:/FR1/Verilog/Anas fpga/Day 5/moore_even_odd.v
+!i122 13
+L0 1 58
+R3
+r1
+!s85 0
+31
+!s108 1726394933.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 5/moore_even_odd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 5/moore_even_odd.v|
+!i113 1
+R4
+R5
+vtb_Alu
+!s110 1726326701
+!i10b 1
+!s100 =EIe_Q=nKd7F^lLGebii@1
+R0
+IX<a@I8;EZfDkh?lSem[mm0
+R1
+R2
+w1726326088
+8D:/FR1/Verilog/Anas fpga/Project/tb_alu.v
+FD:/FR1/Verilog/Anas fpga/Project/tb_alu.v
+!i122 4
+L0 1 76
+R3
+r1
+!s85 0
+31
+!s108 1726326701.000000
+!s107 D:/FR1/Verilog/Anas fpga/Project/tb_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Project/tb_alu.v|
+!i113 1
+R4
+R5
+ntb_@alu
+vtb_Alu1
+!s110 1726328647
+!i10b 1
+!s100 >g<7^HUZnB8MfngTER4M]1
+R0
+IXF<B^77fAF=9Q3mD_`iSA0
+R1
+R2
+w1726328019
+R6
+R7
+!i122 9
+L0 1 90
+R3
+r1
+!s85 0
+31
+!s108 1726328647.000000
+R8
+R9
+!i113 1
+R4
+R5
+ntb_@alu1
+vtb_moore101
+!s110 1726390197
+!i10b 1
+!s100 ROmL31jnFdDZjiJQ@E3f21
+R0
+IDIZE0in>nMz9>mI`in;<B0
+R1
+R2
+w1726390173
+8D:/FR1/Verilog/Anas fpga/Day 5/tb_moore101.v
+FD:/FR1/Verilog/Anas fpga/Day 5/tb_moore101.v
+!i122 12
+L0 1 57
+R3
+r1
+!s85 0
+31
+!s108 1726390197.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 5/tb_moore101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 5/tb_moore101.v|
+!i113 1
+R4
+R5

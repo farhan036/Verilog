@@ -1,0 +1,92 @@
+{D:/FR1/Verilog/Anas fpga/Day 4/counter_up_dowm_tb.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/counter_up_dowm_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_counter_up_down
+
+Top level modules:
+	tb_counter_up_down
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/Bcd_counter.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/Bcd_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bcd
+
+Top level modules:
+	bcd
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/modulus_counter.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/modulus_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module modulus_counter_up
+
+Top level modules:
+	modulus_counter_up
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/tb_newsyn.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/tb_newsyn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_counterup
+
+Top level modules:
+	tb_counterup
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/counter_up_down.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/counter_up_down.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_up_down
+
+Top level modules:
+	counter_up_down
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/Pwm.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/Pwm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pwm
+
+Top level modules:
+	Pwm
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/Pwm_Final.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/Pwm_Final.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pwm_f
+
+Top level modules:
+	Pwm_f
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/tb_pwm.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/tb_pwm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pwm_f_tb
+
+Top level modules:
+	Pwm_f_tb
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/sync_counter_tb.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/sync_counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sync_counter_tb
+
+Top level modules:
+	sync_counter_tb
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/timer.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/timer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/sync_counter.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/sync_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counterup
+
+Top level modules:
+	counterup
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/counter_up.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/counter_up.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counterup
+
+Top level modules:
+	counterup
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 4/tb_bcd.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 4/tb_bcd.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_bcd
+
+Top level modules:
+	tb_bcd
+
+} {} {}}

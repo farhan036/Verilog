@@ -1,0 +1,64 @@
+{D:/FR1/Verilog/Anas fpga/Day 3/d_ffset_reset.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/d_ffset_reset.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ffset_reset
+
+Top level modules:
+	d_ffset_reset
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/d_ff_reset.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/d_ff_reset.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ff_reset
+
+Top level modules:
+	d_ff_reset
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/d_ffneg.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/d_ffneg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_negff
+
+Top level modules:
+	d_negff
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/d_ffpos.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/d_ffpos.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_posff
+
+Top level modules:
+	d_posff
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/unive_shift_reg.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/unive_shift_reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module u_shift_reg
+
+Top level modules:
+	u_shift_reg
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/shift_register.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/shift_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_register
+
+Top level modules:
+	shift_register
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/4bit_register_load.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/4bit_register_load.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_4bit_reg
+
+Top level modules:
+	reg_4bit_reg
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/d_latch.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/d_latch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_latch
+
+Top level modules:
+	d_latch
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Day 3/compare_storage_elements.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Day 3/compare_storage_elements.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module compare_storage_elements
+
+Top level modules:
+	compare_storage_elements
+
+} {} {}}

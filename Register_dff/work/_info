@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcompare_storage_elements
+Z0 !s110 1726218715
+!i10b 1
+!s100 F:e7g^4?Z[BdfedPPn>Vk3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INF;LQfaO@a1G>H10FfF2H0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FR1/Verilog/Anas fpga/Day 3
+w1726158808
+8D:/FR1/Verilog/Anas fpga/Day 3/compare_storage_elements.v
+FD:/FR1/Verilog/Anas fpga/Day 3/compare_storage_elements.v
+!i122 18
+L0 1 33
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1726218715.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/compare_storage_elements.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/compare_storage_elements.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vd_ff_reset
+R0
+!i10b 1
+!s100 kAeZ:KOWZAXeWemn=TXgA2
+R1
+I_TA>_HA7aj?:RhM04c:0<1
+R2
+R3
+w1726178778
+8D:/FR1/Verilog/Anas fpga/Day 3/d_ff_reset.v
+FD:/FR1/Verilog/Anas fpga/Day 3/d_ff_reset.v
+!i122 21
+Z8 L0 1 26
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/d_ff_reset.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/d_ff_reset.v|
+!i113 1
+R6
+R7
+vd_ffset_reset
+R0
+!i10b 1
+!s100 2hcG4WRa8D0PRN7>nPRFH1
+R1
+I5ZOcWDOl1<^GDeW;c>^8R0
+R2
+R3
+w1726181590
+8D:/FR1/Verilog/Anas fpga/Day 3/d_ffset_reset.v
+FD:/FR1/Verilog/Anas fpga/Day 3/d_ffset_reset.v
+!i122 22
+R8
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/d_ffset_reset.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/d_ffset_reset.v|
+!i113 1
+R6
+R7
+vd_latch
+R0
+!i10b 1
+!s100 4WVhOb_VamZUR>mLP676i3
+R1
+Ihi>MG]:P35YQRH_gokCTZ2
+R2
+R3
+w1726157859
+8D:/FR1/Verilog/Anas fpga/Day 3/d_latch.v
+FD:/FR1/Verilog/Anas fpga/Day 3/d_latch.v
+!i122 17
+L0 2 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/d_latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/d_latch.v|
+!i113 1
+R6
+R7
+vd_negff
+R0
+!i10b 1
+!s100 AjhQXN_3oz[^YdWX2B]]?0
+R1
+ILGWPIShBaWZ0[NEli<c3m1
+R2
+R3
+w1726158530
+8D:/FR1/Verilog/Anas fpga/Day 3/d_ffneg.v
+FD:/FR1/Verilog/Anas fpga/Day 3/d_ffneg.v
+!i122 19
+Z9 L0 2 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/d_ffneg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/d_ffneg.v|
+!i113 1
+R6
+R7
+vd_posff
+R0
+!i10b 1
+!s100 5n=Fb]>;5eg2YP=AYM3WF2
+R1
+IGleWR:jm^[<3LMgKY644?1
+R2
+R3
+w1726158539
+8D:/FR1/Verilog/Anas fpga/Day 3/d_ffpos.v
+FD:/FR1/Verilog/Anas fpga/Day 3/d_ffpos.v
+!i122 20
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/d_ffpos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/d_ffpos.v|
+!i113 1
+R6
+R7
+vreg_4bit_reg
+Z10 !s110 1726218716
+!i10b 1
+!s100 InMFj[VUQ[CKdVB0WPFG40
+R1
+Io@BnVEg:4_6V:;OAC6`GO2
+R2
+R3
+w1726218705
+8D:/FR1/Verilog/Anas fpga/Day 3/4bit_register_load.v
+FD:/FR1/Verilog/Anas fpga/Day 3/4bit_register_load.v
+!i122 25
+L0 1 22
+R4
+r1
+!s85 0
+31
+!s108 1726218716.000000
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/4bit_register_load.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/4bit_register_load.v|
+!i113 1
+R6
+R7
+vshift_register
+R0
+!i10b 1
+!s100 M1Uk^:Cc9>hfGa]jDa@5A2
+R1
+Ijgml_a91QCSnY5fk5>?>T3
+R2
+R3
+w1726217687
+8D:/FR1/Verilog/Anas fpga/Day 3/shift_register.v
+FD:/FR1/Verilog/Anas fpga/Day 3/shift_register.v
+!i122 23
+L0 1 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/shift_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/shift_register.v|
+!i113 1
+R6
+R7
+vu_shift_reg
+R10
+!i10b 1
+!s100 jY[S[R0CnR5nz:<zfQ^z>1
+R1
+I=PUDRc;Tl=z@W[;6gj4jC1
+R2
+R3
+w1726218527
+8D:/FR1/Verilog/Anas fpga/Day 3/unive_shift_reg.v
+FD:/FR1/Verilog/Anas fpga/Day 3/unive_shift_reg.v
+!i122 24
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Day 3/unive_shift_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Day 3/unive_shift_reg.v|
+!i113 1
+R6
+R7
