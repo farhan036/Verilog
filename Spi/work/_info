@@ -1,0 +1,173 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FR1/Verilog/Anas fpga/Day 7
+vram_spi
+Z0 !s110 1726579219
+!i10b 1
+!s100 >NFm_ZG;RLkecWZB0SU4l1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IePmZ7;UZ1_MK6W_GD7Qmh3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FR1/Verilog/Anas fpga/Spi
+w1726543128
+8D:/FR1/Verilog/Anas fpga/Spi/Ram.v
+FD:/FR1/Verilog/Anas fpga/Spi/Ram.v
+!i122 68
+L0 1 47
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1726579219.000000
+!s107 D:/FR1/Verilog/Anas fpga/Spi/Ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Spi/Ram.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vspi_slave
+!s110 1726582752
+!i10b 1
+!s100 IUNK2U6zMJGW`4]HWhW:R2
+R1
+IJ0?06S1noRe0[j@z0hC3h3
+R2
+R3
+w1726582738
+8D:/FR1/Verilog/Anas fpga/Spi/spi_slave.v
+FD:/FR1/Verilog/Anas fpga/Spi/spi_slave.v
+!i122 79
+L0 1 96
+R4
+r1
+!s85 0
+31
+!s108 1726582752.000000
+!s107 D:/FR1/Verilog/Anas fpga/Spi/spi_slave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Spi/spi_slave.v|
+!i113 1
+R6
+R7
+vSPI_Wrapper_tb
+!s110 1726578985
+!i10b 1
+!s100 <ogLYDOJoAVJed4MVWHGm1
+R1
+Ie_hC?a_?YLShmL9]Bi:_c1
+R2
+R3
+w1726578963
+Z8 8D:/FR1/Verilog/Anas fpga/Spi/Tb_wrap.v
+Z9 FD:/FR1/Verilog/Anas fpga/Spi/Tb_wrap.v
+!i122 59
+L0 1 111
+R4
+r1
+!s85 0
+31
+!s108 1726578985.000000
+Z10 !s107 D:/FR1/Verilog/Anas fpga/Spi/Tb_wrap.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Spi/Tb_wrap.v|
+!i113 1
+R6
+R7
+n@s@p@i_@wrapper_tb
+vtb_spi_slave
+!s110 1726587270
+!i10b 1
+!s100 RU=7RHT839=QzXGTO1X8O3
+R1
+I:i=;@AajCF:FJYQ5@b70W0
+R2
+R3
+w1726579890
+8D:/FR1/Verilog/Anas fpga/Spi/slavetb.v
+FD:/FR1/Verilog/Anas fpga/Spi/slavetb.v
+!i122 82
+Z12 L0 1 107
+R4
+r1
+!s85 0
+31
+!s108 1726587270.000000
+!s107 D:/FR1/Verilog/Anas fpga/Spi/slavetb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Spi/slavetb.v|
+!i113 1
+R6
+R7
+vtb_wrapper
+!s110 1726589255
+!i10b 1
+!s100 W=?caEKDc`Jl75EERF1@]1
+R1
+IN37WoG_FBlnAA1c>Ld0:@1
+R2
+R3
+w1726589207
+R8
+R9
+!i122 84
+L0 1 116
+R4
+r1
+!s85 0
+31
+!s108 1726589255.000000
+R10
+R11
+!i113 1
+R6
+R7
+vwrapper
+R0
+!i10b 1
+!s100 kLbX2K_ignCO2okc@OBG[1
+R1
+IY:DHN776FKVE@^X=Mf]Dn0
+R2
+R3
+w1726544166
+8D:/FR1/Verilog/Anas fpga/Spi/spi_wrapper.v
+FD:/FR1/Verilog/Anas fpga/Spi/spi_wrapper.v
+!i122 69
+L0 1 36
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FR1/Verilog/Anas fpga/Spi/spi_wrapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FR1/Verilog/Anas fpga/Spi/spi_wrapper.v|
+!i113 1
+R6
+R7
+vwrapper_tb
+R0
+!i10b 1
+!s100 m7h98lhGTJ`UlRKX2NWSW1
+R1
+Ihb59Q@iN2aVjfQ;1z?SC52
+R2
+R3
+w1726579109
+R8
+R9
+!i122 70
+R12
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R6
+R7

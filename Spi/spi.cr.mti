@@ -1,0 +1,36 @@
+{D:/FR1/Verilog/Anas fpga/Spi/slavetb.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Spi/slavetb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_spi_slave
+
+Top level modules:
+	tb_spi_slave
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Spi/spi_slave.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Spi/spi_slave.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module spi_slave
+
+Top level modules:
+	spi_slave
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Spi/Tb_wrap.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Spi/Tb_wrap.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_wrapper
+
+Top level modules:
+	tb_wrapper
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Spi/spi_wrapper.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Spi/spi_wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapper
+
+Top level modules:
+	wrapper
+
+} {} {}} {D:/FR1/Verilog/Anas fpga/Spi/Ram.v} {1 {vlog -work work -stats=none {D:/FR1/Verilog/Anas fpga/Spi/Ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_spi
+
+Top level modules:
+	ram_spi
+
+} {} {}}
